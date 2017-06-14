@@ -13,7 +13,7 @@
     "url": "git+https://github.com/expcapitaldev/cordova-plugin-AppleAdvertising.git"
   },
   "keywords": [
-    "cordova"
+    "cordova",
     "cordova-android"
   ],
   "engines": [
