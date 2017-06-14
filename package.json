@@ -1,0 +1,39 @@
+{
+  "name": "com.aquto.cordova.AppleAdvertising",
+  "version": "1.0.0",
+  "description": "Cordova plugin to get Apple advertising identifiers (IDFA, IDFV, TrackingEnabled)",
+  "cordova": {
+    "id": "com.aquto.cordova.AppleAdvertising",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expcapitaldev/cordova-plugin-AppleAdvertising.git"
+  },
+  "keywords": [
+    "cordova"
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "praves",
+    "email": "praves.dev@outlook.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/praves77/cordova-plugin-android-idfa/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/praves77/cordova-plugin-android-idfa/issues"
+  },
+  "homepage": "https://github.com/praves77/cordova-plugin-android-idfa#readme"
+}
