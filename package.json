@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-com-aquoto-apple-advertising",
+  "name": "com.aquto.cordova.AppleAdvertising",
   "version": "1.0.0",
   "description": "Cordova plugin to get Apple advertising identifiers (IDFA, IDFV, TrackingEnabled)",
   "cordova": {
-    "id": "cordova-plugin-com-aquoto-apple-advertising",
+    "id": "com.aquto.cordova.AppleAdvertising",
     "platforms": [
       "android"
     ]
